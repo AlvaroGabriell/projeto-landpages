@@ -1,0 +1,255 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+
+body,
+html {
+    width: 100vw;
+    height: 100vh;
+    background-color: #15161B;
+    overflow-x: hidden;
+
+}
+
+.cabecalho-principal {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 274px;
+    height: 67px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 67px;
+
+}
+
+.cabecalho-span {
+    color: #1A7993;
+}
+
+
+.conteudo-principal {
+    display: flex;
+    margin-top: 160px;
+    flex-direction: row;
+
+    justify-content: space-evenly;
+
+}
+
+.conteudo-img {
+    width: 77%;
+    float: right;
+
+}
+
+.conteudo-paragrafo {
+    margin-bottom: 8px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 34px;
+
+}
+
+.conteudo-h2 {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 60px;
+}
+
+.botao-1 {
+    width: 280px;
+    margin-top: 40px;
+    padding: 15px;
+    background-color: #1A7993;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+
+
+}
+
+.conteudo-textoh3 {
+    margin-top: 180px;
+    margin-bottom: 100px;
+    text-align: center;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+
+
+}
+
+
+.conteudo-caixas {
+
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.caixa-items {
+    width: 260px;
+
+}
+
+.conteudo-terciario {
+
+    display: flex;
+    justify-content: space-around;
+
+    margin-top: 270px;
+    height: 550px;
+    background-color: #1A7993;
+}
+
+.conteudo-terciario-imagem img {
+
+
+    height: 550px;
+
+}
+
+.terciario-h2 {
+    margin-top: 100px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+
+}
+
+.conteudo-paragrafo3 {
+    margin-top: 10px;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 34px;
+
+}
+
+.botao2 {
+    color: #000000;
+    background-color: #FAFBFF;
+    margin-top: 40px;
+    width: 338px;
+    padding: 12px;
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 60px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}
+
+.rodape {
+    margin-top: 270px;
+
+}
+
+.conteudo-h3 {
+    text-align: center;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 40px;
+
+}
+
+.input-nome {
+    display: block;
+    width: 400px;
+    margin: auto;
+    margin-top: 60px;
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.input-email {
+    display: block;
+    width: 400px;
+    margin: auto;
+    margin-top: 25px;
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+
+}
+
+.botao3 {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 15px;
+    background-color: #1A7993;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+
+}
+
+.redes-paragrafo {
+    padding: 15px;
+    margin-top: 150px;
+    color: white;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 34px;
+}
+
+.redes{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.redes-items {
+    margin-bottom:60px;
+    width:70px;
+    padding: 15px;
+    
+    
+ 
+   
+
+
+
+}
