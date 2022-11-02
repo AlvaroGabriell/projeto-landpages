@@ -188,6 +188,7 @@ html {
     width: 400px;
     margin: auto;
     margin-top: 60px;
+    outline: none;
     padding: 10px;
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
@@ -200,6 +201,7 @@ html {
     width: 400px;
     margin: auto;
     margin-top: 25px;
+    outline: none;
     padding: 10px;
     font-family: 'Oswald', sans-serif;
     font-weight: 400;
